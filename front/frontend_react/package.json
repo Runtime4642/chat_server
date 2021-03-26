@@ -1,0 +1,43 @@
+{
+  "name": "chatting-client-react",
+  "version": "0.1.0",
+  "dependencies": {
+    "@ant-design/icons": "latest",
+    "@material-ui/core": "^3.9.3",
+    "@material-ui/icons": "^3.0.2",
+    "antd": "4.0.4",
+    "axios": "^0.18.0",
+    "json-fetch": "^8.0.0",
+    "randomstring": "^1.1.5",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.0.1",
+    "react-stomp": "^4.1.0",
+    "react-talk": "^1.0.0",
+    "username-generator": "^1.1.0",
+    "immutable": "^4.0.0-rc.12",
+    "react-redux": "^7.0.3",
+    "redux": "^4.0.1",
+    "redux-actions": "^2.6.5",
+    "redux-logger": "^3.0.6",
+    "redux-pender": "^2.0.12",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "proxy": "http://localhost:8076"
+}

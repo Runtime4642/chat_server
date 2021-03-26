@@ -1,0 +1,50 @@
+
+.root-class{
+    width: 100%;
+    height: 100%;
+}
+.navi{
+    width: 10%;
+    float: left;
+    height: 100%;
+}
+
+.content{
+    
+    width: 50%;
+    float: left;
+    
+}
+
+.ant-menu.ant-menu-dark.ant-menu-root.ant-menu-inline{
+    height: 800px;
+}
+
+.ant-picker-calendar.ant-picker-calendar-full{
+    width : 100%;
+}
+
+.chat{
+    margin-top: 30px;
+    margin-left: 3%;
+    width: 37%;
+    float: left;
+}
+
+
+#chat-viewer .talk-input-raw{
+    height: 40px;
+}
+
+#chat-viewer .talk-box-body{
+    height: 500px;
+}
+
+.talk-box-wrapper.custom{
+    width: 60%;
+}
+
+#nic-name{
+    width: 60%;
+}
+

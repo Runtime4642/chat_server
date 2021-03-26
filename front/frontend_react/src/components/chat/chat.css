@@ -1,0 +1,15 @@
+.ant-pagination.ant-table-pagination{
+    display: none;
+}
+#chat-connect-list{
+    width: 30%;
+    margin-left: 65%;
+    margin-top: -90%;
+    /* border-color:black;
+    border-width : 1px;
+    border-style : solid; */
+}
+
+.chat-viewer{
+    position: absolute;
+}
