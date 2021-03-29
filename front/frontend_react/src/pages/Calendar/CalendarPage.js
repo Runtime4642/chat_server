@@ -1,5 +1,5 @@
 import React from 'react';
-import CalendarContainer from 'containers/Calendar/CalendarContainer';
+import CalendarContainer from '../../containers/Calendar/CalendarContainer';
 
 
 const CalendarPage = () => {

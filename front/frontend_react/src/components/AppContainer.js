@@ -1,7 +1,7 @@
 import { compose, lifecycle } from 'recompose';
 import { connect } from 'react-redux';
-import { getUser } from 'pages/login/LoginState';
-import { changeLanguage } from 'store/modules/language';
+import { getUser } from '../pages/login/LoginState';
+import { changeLanguage } from '../store/modules/language';
 
 import AppView from './App';
 

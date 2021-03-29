@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import Calendar from 'components/Calendar/Calendar';
+import Calendar from '../../components/Calendar/Calendar';
 import { connect } from 'react-redux';
-import * as calendarActions from 'store/modules/Calendar';
+import * as calendarActions from '../../store/modules/Calendar';
 import { bindActionCreators } from 'redux';
 
 

@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import App from './components/App';
 import { Provider } from 'react-redux'
 import * as serviceWorker from './serviceWorker';
-import store from 'store/configure';
+import store from './store/configure';
 import { ConfigProvider   } from 'antd';
 import koKR from 'antd/lib/locale-provider/ko_KR';
 

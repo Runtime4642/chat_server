@@ -4,7 +4,7 @@ import { Map, List, fromJS } from 'immutable';
 import { pender } from 'redux-pender';
 import { message } from 'antd';
 
-import * as api from 'lib/api';
+import * as api from '../../lib/api';
 
 const INITIALIZE = 'list/INITIALIZE';
 const CHANGE_INPUT = 'list/CHANGE_INPUT';

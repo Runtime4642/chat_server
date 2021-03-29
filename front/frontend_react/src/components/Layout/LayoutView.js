@@ -1,10 +1,10 @@
 import React from 'react';
 import { BrowserRouter, Route, Switch, Redirect } from 'react-router-dom';
-import Chat from 'pages/chat';
-import Calendar from 'pages/Calendar';
+import Chat from '../../pages/chat';
+import Calendar from '../../pages/Calendar';
 import {Alert } from 'antd';
 
-import Navigation from 'components/Navigation/Navigation';
+import Navigation from '../Navigation/Navigation';
 import { withStyles, CssBaseline } from '@material-ui/core';
 import './Layout.css';
 
